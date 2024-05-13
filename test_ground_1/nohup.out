@@ -1,0 +1,52 @@
+Traceback (most recent call last):
+  File "main.py", line 7, in <module>
+    import models.backbone
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/__init__.py", line 3, in <module>
+    from .CTran import CTranModel
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/CTran.py", line 6, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+Traceback (most recent call last):
+  File "main.py", line 7, in <module>
+    import models.backbone
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/__init__.py", line 3, in <module>
+    from .CTran import CTranModel
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/CTran.py", line 6, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+Traceback (most recent call last):
+  File "main.py", line 7, in <module>
+    import models.backbone
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/__init__.py", line 3, in <module>
+    from .CTran import CTranModel
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/CTran.py", line 6, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+Traceback (most recent call last):
+  File "main.py", line 7, in <module>
+    import models.backbone
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/__init__.py", line 3, in <module>
+    from .CTran import CTranModel
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/CTran.py", line 6, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+Traceback (most recent call last):
+  File "main.py", line 7, in <module>
+    import models.backbone
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/__init__.py", line 3, in <module>
+    from .CTran import CTranModel
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/models/CTran.py", line 6, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+Traceback (most recent call last):
+  File "main.py", line 8, in <module>
+    from load_data import get_data
+  File "/data/zdxy/zdxy_recover/codes/test_ground_1/load_data.py", line 14, in <module>
+    from dataloaders.coco1000_dataset import Coco1000Dataset
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 839, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 934, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1033, in get_data
+KeyboardInterrupt
